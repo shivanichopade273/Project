@@ -1,0 +1,16 @@
+<!--list.html-->
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head><title>Table of contents Frames</title>
+	</head>
+	<body bgcolor="blanchedalmond">
+	<h4> BCA 5th sem syllabus </h4>
+	<ul>
+	<li> <a href="WP.html"
+			target="description">
+			web  programming</a></li>
+
+	<li> <a href="DBMS.html"
+			target="descriptions">
+			database</a></li>
+	
+	
